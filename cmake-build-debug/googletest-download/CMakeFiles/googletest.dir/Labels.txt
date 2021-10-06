@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/Users/peta/Documents/GitHub/hw03-number-trie-gtnh48965/cmake-build-debug/googletest-download/CMakeFiles/googletest
+/Users/peta/Documents/GitHub/hw03-number-trie-gtnh48965/cmake-build-debug/googletest-download/CMakeFiles/googletest.rule
+/Users/peta/Documents/GitHub/hw03-number-trie-gtnh48965/cmake-build-debug/googletest-download/CMakeFiles/googletest-complete.rule
+/Users/peta/Documents/GitHub/hw03-number-trie-gtnh48965/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/Users/peta/Documents/GitHub/hw03-number-trie-gtnh48965/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/Users/peta/Documents/GitHub/hw03-number-trie-gtnh48965/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/Users/peta/Documents/GitHub/hw03-number-trie-gtnh48965/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule
+/Users/peta/Documents/GitHub/hw03-number-trie-gtnh48965/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/Users/peta/Documents/GitHub/hw03-number-trie-gtnh48965/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/Users/peta/Documents/GitHub/hw03-number-trie-gtnh48965/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/Users/peta/Documents/GitHub/hw03-number-trie-gtnh48965/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule
